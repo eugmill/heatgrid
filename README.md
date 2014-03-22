@@ -1,29 +1,6 @@
 # Heatgrid
 
-TODO: Write a gem description
+Heatgrid is a gem that generates grid-based heatmaps from a 2d array of data. 
 
-## Installation
+It is a work in progress. 
 
-Add this line to your application's Gemfile:
-
-    gem 'heatgrid'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install heatgrid
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/heatgrid/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request

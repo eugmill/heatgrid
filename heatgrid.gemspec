@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eugene Millerman"]
   spec.email         = ["e.v.millerman@gmail.com"]
   spec.summary       = %q{Generate a heatmap from a 2d array. }
-  spec.description   = %q{Generate a grid based heatmap from a 2d array using rmagick.}
-  spec.homepage      = ""
+  spec.description   = %q{Generate a grid based heatmap from a 2d array using rmagick. Requires ImageMagick. Work in progress.}
+  spec.homepage      = "https://github.com/eugmill/heatgrid"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
