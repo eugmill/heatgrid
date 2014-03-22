@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eugene Millerman"]
   spec.email         = ["e.v.millerman@gmail.com"]
   spec.summary       = %q{Generate a heatmap from a 2d array. }
-  spec.description   = %q{Generate a heatmap from a 2d array with rmagick.}
+  spec.description   = %q{Generate a grid based heatmap from a 2d array using rmagick.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
@@ -20,5 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.5"
   spec.add_development_dependency "rake"
-  # spec.add_development_dependency "rspec", "~>2.5.0"
+  spec.add_development_dependency "rspec", "~>2.5.0"
+  spec.add_development_dependency "pry"
+
 end

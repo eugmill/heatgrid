@@ -1,10 +1,6 @@
 require "heatgrid/version"
+require "heatgrid/grid"
 
 module Heatgrid
-  # Your code goes here...
-  class Heatgrid
-    def self.hi
-      puts "Hello World!"
-    end
-  end
+  
 end
